@@ -4,3 +4,8 @@ An ADC converts a continuous-time and continuous-amplitude analog signal to a di
 The conversion involves quantization of the input, so it necessarily introduces a small amount of error or noise. 
 
 Furthermore, instead of continuously performing the conversion, an ADC does the conversion periodically, sampling the input, limiting the allowable bandwidth of the input signal.
+
+Serial Peripheral Interface (SPI) is an interface bus commonly used to send data between microcontrollers and small peripherals such as shift registers, sensors, and SD cards. 
+
+It uses separate clock and data lines, along with a select line to choose the device you wish to talk to.
+
