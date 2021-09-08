@@ -1,0 +1,9 @@
+Enable Camera in Configuration
+
+Capture Image - raspistill -o Desktop/image.jpg
+Height Width - raspistill -o Desktop/image-small.jpg -w 640 -h 480
+Record Video - raspivid -o Desktop/video.h264
+Installing Computer Vision
+sudo pip3 install opencv-python
+
+sudo pip3 install opencv-contrib-python
