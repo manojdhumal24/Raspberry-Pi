@@ -1,0 +1,10 @@
+It uses a capacitive humidity sensor and a thermistor to measure the surrounding air, and spits out a digital signal on the data pin
+
+Temperature Range: 0°C to 50°C
+Humidity Range: 20% to 90%
+
+sudo apt-get install git-core
+git clone https://github.com/adafruit/Adafruit_Python_DHT.git
+cd Adafruit_Python_DHT
+sudo apt-get install build-essential python-dev
+sudo python3 setup.py install
