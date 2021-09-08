@@ -1,0 +1,16 @@
+Speed Control DC Motor
+
+Analog sensor Interface with External ADC using SPI Prortocol.
+
+Requirement of Electronics equipment 
+Power Adapter – 5V 2Amps
+USB B-Type Cable
+MCP3008
+Breadboard
+10K Trimpot
+220Ohm Resistor
+2N2222 Transistor PNP
+Motor
+9V Battery
+MCP3008 IC
+Breadboard
