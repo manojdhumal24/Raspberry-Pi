@@ -1,0 +1,18 @@
+Water Flow Sensor
+YFS201 Hall Effect Water Flow Sensor 
+This sensor sits in line with the water line and contains a pinwheel sensor to measure how much water has moved through it. There is an integrated magnetic Hall-Effect sensor that outputs an electrical pulse with every revolution. 
+
+
+Flow calculation:
+
+The basis relationship for determining the liquid’s flow rate in such cases is Q=VxA, 
+Q - flow rate/total flow of water through the pipe
+V - average velocity of the flow and A is the cross-sectional area of the pipe
+
+Pulse frequency (Hz) = 7.5Q, Q is flow rate in Litres/minute – in Minute
+Flow Rate (Litres/hour) = (Pulse frequency x 60 min) / 7.5Q – Q in hour
+
+
+Pulses=7.5×Q
+Q=Pulses/7.5 (This is flow rate in Litres/min)
+Q=Pulses/(7.5×60) (This is flow rate in Litres/hour
