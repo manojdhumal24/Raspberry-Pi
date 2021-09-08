@@ -1,0 +1,9 @@
+Water quality detection using PH-sensor.
+pH, turbidity, conductivity, total suspended solids (TSS), total dissolved solids (TDS), and heavy metals such as Cu, Zn, Mg, Fe, Cd, Pb, Cr, As, Hg, and Sn were analysed for each water sample collected during winter and summer periods. 
+In chemistry, pH - 'potential of hydrogen' or 'power of hydrogen') is a scale used to specify the acidity or basicity of an aqueous solution. Acidic solutions (solutions with higher concentrations of H+ ions) are measured to have lower pH values than basic or alkaline solutions.
+
+This PH rod is designed on ATMEGA8.
+On board LDR for light value, Thermistor for temperature value.
+It gives Serial data at its Tx pin
+PH value  W: depth of rod immersed  L : light value  T temperature value
+PH  W  L  T
