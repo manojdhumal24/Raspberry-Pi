@@ -1,0 +1,7 @@
+User Datagram Protocol (UDP) is a Transport Layer protocol. UDP is a part of Internet Protocol suite, referred as UDP/IP suite. 
+
+Unlike TCP, it is unreliable and connectionless protocol. So, there is no need to establish connection prior to data transfer. 
+
+UDP permits packets to be dropped instead of processing delayed packets. There is no error checking in UDP, so it also save bandwidth. 
+
+In this module i used dht11 sensor interface with RPI 4B module.
